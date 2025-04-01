@@ -1,6 +1,6 @@
 --- 
 title: "Web page"
-theme: jekyll-theme-cayman
+theme: minima
 ---
 # Página 
 web page para la tarea.
