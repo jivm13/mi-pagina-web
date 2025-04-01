@@ -9,7 +9,7 @@ Mi nombre es Javier, nací en Santiago de Chile en el mes de mayo. Cuando era pe
 <p align="justify">
 Actualmente estoy cursando el quinto año de la carrera de ingeniería civil. Inicialmente, seleccione el major de ingeniería ambiental, sin embargo, debido a que encontre los ramos aburridos, decidí cambiarme a otro major. Mi major actual es el de biomédica y para ser sincero lo escogí tan solo porque me gusta los relacionado a la medicina deportiva. Por ello, algo que me representa es la realización de actividad física.
 
-![Goku entrenando](https://www.boostcamp.app/_next/image?url=https%3A%2F%2Fs3.boostcamp.app%2Fblog-thumbnail%2F2936033001.png&w=1920&q=75)
+![Goku entrenando](https://s3.boostcamp.app/blog-thumbnail/2936033001.png)
 
 ### Lista de intereses
 - Actividad física (Gimnasio, basquetbol, etc.).
