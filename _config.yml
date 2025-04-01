@@ -3,4 +3,6 @@ title: Tarea
 author: Javier Mellado
 description: Página Web
 include: [README.md]
+{% capture readme_content %}{% include README.md %}{% endcapture %}
+{{ readme_content | markdownify }}
 
